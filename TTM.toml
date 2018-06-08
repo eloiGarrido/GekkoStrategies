@@ -1,0 +1,23 @@
+
+# Boillinger Bands
+bbPeriod = 20
+bbStdDev = 2
+bbMult = 2
+
+# Keltner Channel
+keltnerMult = 1
+
+# EMA
+emaPeriod = 20
+
+# SMA
+smaPeriod = 20
+
+# ATR
+atrPeriod = 20
+
+# Linear Regression
+linregPeriod = 20
+
+length = 20
+maxLength = 40
